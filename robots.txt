@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avakiade.github.io/OWx/sitemap_index.txt
+Sitemap: https://avakiade.github.io/PFy/sitemap_index.txt
+Sitemap: https://avakiade.github.io/daU/sitemap_index.txt
+Sitemap: https://avakiade.github.io/hsv/sitemap_index.txt
